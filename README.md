@@ -1,35 +1,18 @@
-# About Me
+# Welcome to My Web Portfolio
 
-Hi, I'm Nell John 👋!  
-I am a first-year IT student, excited to learn and explore the world of technology. My journey in programming and IT has just begun, and I'm eager to develop my skills and work on interesting projects.
+To navigate my web portfolio, simply use the navigation bar located at the top of the page. The sections are organized as follows:
 
----
+- **Home**: A brief introduction to who I am and my stance on **Sustainable Development Goal 3 (Good Health and Well-Being)**.  
+  Additionally, there's a button in this section that will direct you to the GitHub repository of this portfolio.
+- **About Me**: A section where you can learn more about me.
+- **Future Plans**: An overview of my goals and aspirations.
+- **SDG**: Information about **Sustainable Development Goal 3 (Good Health and Well-Being)**.
+- **Contact Me**: Ways to reach out or connect with me.
 
-## Skills
-
-- **Problem-Solving**: Currently developing logical and analytical skills.
----
-
-## Current Projects
-- **Learning Programming Basics**Learning fundamental concepts like variables, loops, and functions.
-- **Exploring Web Development**: Starting with HTML and CSS.
-- **Introduction to Databases**: Learning how to organize and manage data.
+Click on any of the section names in the navigation bar, and you'll be automatically redirected to the corresponding part of the page.
 
 ---
 
-## Goals
+## About SDG 3: Good Health and Well-Being
 
-1. Master the basics of programming.
-2. Build small projects to enhance my skills.
-3. Participate in IT-related activities and collaborate with peers.
-
----
-
-## Get in Touch
-
-- **Email**: mapaladcedrick24@gmail.com
-- **G-suite**: 24-02266@g.batstate-u.edu.ph
-
----
-
-Thank you for checking out my profile! I'm just starting out, but I'm excited to grow and learn in the IT field.
+SDG 3 aims to ensure healthy lives and promote well-being for all at all ages. It focuses on reducing mortality rates, improving maternal health, tackling communicable diseases, and promoting mental health and well-being. The goal also emphasizes the importance of access to quality healthcare and the need for policies that improve health outcomes for all people.
